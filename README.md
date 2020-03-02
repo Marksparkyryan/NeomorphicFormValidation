@@ -3,7 +3,7 @@ This was a quick and fun project from Brad Traversy's 20 Projects with Vanilla J
 
 # Validation
 * required fields
-* min maxlength
+* min/max length
 * email regex
 * password match
 
